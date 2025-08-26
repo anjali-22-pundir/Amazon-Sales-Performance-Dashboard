@@ -60,6 +60,9 @@ amazon-sales-analysis-powerbi/
 - Implement drill-through reports for deeper insights.
 - Integrate with real-time data source for live dashboards.
 
+**Note**
+The .pbix file cannot be previewed on GitHub due to size and format limitations. To view the interactive dashboards, please download the file and open it in Power BI Desktop.
+
 📧 **Contact**
 
 For queries or collaboration:
